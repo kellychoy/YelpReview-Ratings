@@ -1,6 +1,6 @@
 # YelpReview-Ratings
 
-Explore Yelp Dataset
+Exploratory Data Analysis on Yelp Dataset
 
 The contents of this repository were used to conduct exploratory data analysis on the Yelp dataset provided: https://www.yelp.com/dataset 
 In this repository, there are 2 notebooks, one containing a segment of data cleaning and preprocessing tasks and another to conduct methods of topic modeling/predictive modeling on the datasets.
@@ -13,4 +13,5 @@ From the yelp dataset, the business, user and review files were used for this pr
 
 2. [Topic Modeling/Predictive Modeling](https://github.com/kellychoy/YelpReview-Ratings/blob/main/topic_modeling_step.ipynb)
 
-   This notebook explains the steps to prepare for Latent Dirichlet Allocation (LDA) Topic Modeling and several predictive model analyses. Utilizing NLTK (Natural Language Toolkit), the text was preprocessed and tokenized. Stop words were also removed and I made sure all the content we were working with was in the same language - in this case, English. 
+   This notebook explains the steps to prepare for Latent Dirichlet Allocation (LDA) Topic Modeling and several predictive model analyses. Utilizing NLTK (Natural Language Toolkit), the text was preprocessed and tokenized. Stop words and punctuation were also removed, and I ensured all the content we were working with was in the same language - in this case, English. For text vectorization, scikit-learn's TfidfVectorizer was used. Identified 10 topics that the reviews may fall into and created some visualizations utilizing Tableau for deeper analysis.
+   For predictive modeling, I wanted to see whether the topics of the reviews can help predict the rating of the restaurant. Linear Regression and XGBoost regression were conducted and compared. Binary and Multi-classifications were also tested to see if there were any improvements to the data. 
