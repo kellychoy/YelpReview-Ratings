@@ -6,4 +6,4 @@ In this repository, there are 2 notebooks, one containing a segment of data clea
 
 From the yelp dataset, the business, user and review files were used for this project. 
 
-1. [Data Cleaning]([https://pages.github.com/](https://github.com/kellychoy/YelpReview-Ratings/blob/main/data_cleaning.ipynb)https://github.com/kellychoy/YelpReview-Ratings/blob/main/data_cleaning.ipynb)  
+1. [[Data Cleaning]](https://github.com/kellychoy/YelpReview-Ratings/blob/main/data_cleaning.ipynb)
