@@ -5,3 +5,5 @@ The contents of this repository were used to conduct exploratory data analysis o
 In this repository, there are 2 notebooks, one containing a segment of data cleaning and preprocessing tasks and another to conduct methods of topic modeling/predictive modeling on the datasets.
 
 From the yelp dataset, the business, user and review files were used for this project. 
+
+1. [Data Cleaning]([https://pages.github.com/](https://github.com/kellychoy/YelpReview-Ratings/blob/main/data_cleaning.ipynb)https://github.com/kellychoy/YelpReview-Ratings/blob/main/data_cleaning.ipynb)  
