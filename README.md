@@ -1,4 +1,5 @@
 # YelpReview-Ratings
+
 Explore Yelp Dataset
 
 The contents of this repository were used to conduct exploratory data analysis on the Yelp dataset provided: https://www.yelp.com/dataset 
@@ -12,4 +13,4 @@ From the yelp dataset, the business, user and review files were used for this pr
 
 2. [Topic Modeling/Predictive Modeling](https://github.com/kellychoy/YelpReview-Ratings/blob/main/topic_modeling_step.ipynb)
 
-   This notebook explains 
+   This notebook explains the steps to prepare for Latent Dirichlet Allocation (LDA) Topic Modeling and several predictive model analyses. Utilizing NLTK (Natural Language Toolkit), the text was preprocessed and tokenized. Stop words were also removed and I made sure all the content we were working with was in the same language - in this case, English. 
