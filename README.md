@@ -17,4 +17,4 @@ From the yelp dataset, the business, user and review files were used for this pr
    For predictive modeling, I wanted to see whether the topics of the reviews can help predict the restaurant's rating. Linear Regression and XGBoost regression were conducted and compared. Binary and Multi-classifications were also tested to see if there were any improvements to the data.
 
 Extra Info:
-I've uploaded any cleaned dataset I could on my end, but some could not be provided due to Github file size restrictions. However, to run the first notebook, [final dataset]((https://github.com/kellychoy/YelpReview-Ratings/blob/main/final_dataset.csv.zip) has been provided, which is the file needed to move on to the second notebook. Thanks for understanding! 
+I've uploaded any cleaned dataset I could on my end, but some could not be provided due to Github file size restrictions. However, to run the first notebook, [final dataset](https://github.com/kellychoy/YelpReview-Ratings/blob/main/final_dataset.csv.zip) has been provided, which is the file needed to move on to the second notebook. Thanks for understanding! 
